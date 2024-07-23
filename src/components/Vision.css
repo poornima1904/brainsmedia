@@ -1,0 +1,13 @@
+.vision {
+    padding: 50px;
+    background-color: #ffffff;
+}
+
+.vision h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.vision p {
+    margin: 10px 0;
+}

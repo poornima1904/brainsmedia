@@ -1,0 +1,39 @@
+.about-us {
+    padding: 50px;
+    background-color: #ffffff;
+}
+
+.about-us h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.about-us p {
+    margin: 10px 0;
+}
+
+.about-us button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.about-us button:hover {
+    background-color: #555;
+}
+.about-us button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.about-us button:hover {
+    background-color: #555;
+}

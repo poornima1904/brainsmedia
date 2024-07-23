@@ -1,0 +1,13 @@
+.mission {
+    padding: 50px;
+    background-color: #f2f2f2;
+}
+
+.mission h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.mission p {
+    margin: 10px 0;
+}
